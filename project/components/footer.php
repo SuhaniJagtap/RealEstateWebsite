@@ -6,8 +6,8 @@
 
       <div class="box">
          <a href="tel:9619938374"><i class="fas fa-phone"></i><span>9511803801</span></a>
-         <a href="ameya.yeole@somaiya.edu"><i class="fas fa-envelope"></i><span>ameya.yeole@somaiya.edu</span></a>
-         <a href="mailto:tanmay.shidhani@somaiya.edu"><i class="fas fa-envelope"></i><span>tanmay.shidhani@somaiya.edu</span></a>
+         <a href="sujal16@somaiya.edu"><i class="fas fa-envelope"></i><span>sujal16@somaiya.edu</span></a>
+         <a href="suhanijagtap@somaiya.edu"><i class="fas fa-envelope"></i><span>suhanijagtap@somaiya.edu</span></a>
          
          <a href="#"><i class="fas fa-map-marker-alt"></i><span>mumbai, india - 400104</span></a>
       </div>
